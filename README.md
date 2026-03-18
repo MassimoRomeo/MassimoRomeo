@@ -1,4 +1,4 @@
-## # Hi, I'm Massimo Romeo
+Hi, I'm Massimo Romeo
 
 I am an aspiring cybersecurity professional with hands-on training in blue team activities, SOC analysis, web security, and beginner penetration testing.
 
